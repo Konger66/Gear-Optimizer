@@ -1,1 +1,2 @@
-# Eng-Comp-2023
+Gear Optimizer
+Optimization Program Created for Waterloo Engineering Competition
